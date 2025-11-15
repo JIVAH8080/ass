@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">NextDNS Protector</string>
+    <string name="device_admin_description">Enable device administrator to protect NextDNS configuration and prevent unauthorized uninstallation.</string>
+    <string name="device_admin_label">NextDNS Protection</string>
+</resources>
