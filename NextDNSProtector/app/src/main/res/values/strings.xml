@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">NextDNS Protector</string>
+    <string name="device_admin_label">NextDNS Protector Admin</string>
+    <string name="device_admin_description">Protects NextDNS settings and prevents app uninstallation. When enabled, this app cannot be removed without first deactivating device administrator privileges.</string>
+</resources>
